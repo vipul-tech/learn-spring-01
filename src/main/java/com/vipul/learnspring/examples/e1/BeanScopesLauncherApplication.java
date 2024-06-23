@@ -1,7 +1,5 @@
 package com.vipul.learnspring.examples.e1;
 
-import java.util.Arrays;
-
 import org.springframework.beans.factory.config.ConfigurableBeanFactory;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.ComponentScan;

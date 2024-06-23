@@ -2,9 +2,10 @@ package com.vipul.learnspring.examples.c1;
 
 import java.util.Arrays;
 
-import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
 
-@Component
+//@Component
+@Service
 public class BuisnessCalculationService {
 	
 	private DataService dataService;
